@@ -1,0 +1,22 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "A NodeJS Creation",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh0lree21/NodeJSExample.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Grant Holley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gh0lree21/NodeJSExample/issues"
+  },
+  "homepage": "https://github.com/gh0lree21/NodeJSExample#readme"
+}
